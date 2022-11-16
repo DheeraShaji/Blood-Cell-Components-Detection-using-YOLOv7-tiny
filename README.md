@@ -2,7 +2,10 @@
 
 Dataset: https://universe.roboflow.com/object-detection/bccd.   
 This is a dataset of blood cells photos.    
-There are 364 images across three classes: white blood cells), red blood cells, and Platelets.  
+There are 877 images across three classes: white blood cells), red blood cells, and Platelets.  
+No. of images in train set: 766.  
+No. of images in val set: 74.  
+No of images in test set: 37.  
 
 Steps followed in implementing YOLOv7:    
 1. Clone the YOLOv7 github repository at any location you want it.  [https://github.com/WongKinYiu/yolov7](url) 
